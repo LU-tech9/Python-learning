@@ -1,0 +1,13 @@
+num=100
+num+=10
+print(num)
+num-=10
+print(num)
+num*=10
+print(num)
+num//=10
+print(num)
+num%=10
+print(num)
+num**=10
+print(num)
