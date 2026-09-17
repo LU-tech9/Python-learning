@@ -15,3 +15,5 @@ match control:
         print("角色攻击")
     case "退出"|"esc"|"ESC":
         print("角色退出游戏")
+    case _:
+        print("error")
