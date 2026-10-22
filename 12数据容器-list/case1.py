@@ -1,5 +1,5 @@
 s = []
-for i in range(10):
+for i in range(5):
     num = int(input("请输入一个有效数字:"))
     s.append(num)
 print(s)
